@@ -1,10 +1,10 @@
-# TypeScript demo
+# Splitting the monolith
 
 ## What we will cover
 
-- 1
-- 2
-- 3
+- What does it mean to split?
+- What are the challenges?
+- How can we do it?
 
 ## Notes
 
